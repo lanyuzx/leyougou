@@ -2,6 +2,10 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyougou-api-geteway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyougou-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyougou-item/leyougou-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leyougou-item/leyougou-item-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leyougou-registry" charset="UTF-8" />
   </component>
 </project>
