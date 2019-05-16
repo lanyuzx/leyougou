@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="leyougou-api-geteway" />
+        <module name="leyougou-common" />
         <module name="leyougou-item-interface" />
         <module name="leyougou-item-service" />
         <module name="leyougou-registry" />
@@ -16,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="leyougou-api-geteway" options="-parameters" />
+      <module name="leyougou-common" options="-parameters" />
       <module name="leyougou-item" options="-parameters" />
       <module name="leyougou-item-interface" options="-parameters" />
       <module name="leyougou-item-service" options="-parameters" />
